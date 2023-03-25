@@ -1,0 +1,66 @@
+.icono{
+    height: 40px;
+    width: 100px;
+}
+
+.fondo{
+    background-color: aqua;
+}
+
+.imagen{
+    height: 312.5px;
+    width: 312.5px;
+}
+
+.magen{
+    height: 304px;
+    width: 405.5px;
+}
+
+.varias{
+    height: 244.5px;
+    width: 405.5px;
+}
+
+.patente{
+    width: 400px;
+    height: 284px;
+}
+
+.cer{
+    width: 400px;
+    height: 284px;
+}
+
+.factura{
+    width: 220.5px;
+    height: 312.5px;
+}
+
+.nombres{
+    width: 404px;
+    height: 312.5px;
+}
+
+.planilla{
+    width: 404px;
+    height: 312.5px;
+}
+
+.circulos{
+    width: 404.5px;
+    height: 312.5px;
+}
+
+.color{
+    background-color: rgb(119, 207, 61);
+}
+
+.creditos{
+    background-color: rgb(224, 162, 28);
+    text-align: center;
+}
+
+
+
+
